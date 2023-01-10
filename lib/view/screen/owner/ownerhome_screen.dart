@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:boat_rent_project/view/screen/auth/drawer/drawer_body.dart';
-import 'package:boat_rent_project/view/screen/owner/drawer_owner.dart/Drawer_owner_body.dart';
+import 'package:boat_rent/view/screen/auth/drawer/drawer_body.dart';
+import 'package:boat_rent/view/screen/owner/drawer_owner.dart/Drawer_owner_body.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

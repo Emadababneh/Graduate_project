@@ -1,6 +1,6 @@
-import 'package:boat_rent_project/logic/model/boat_modle.dart';
-import 'package:boat_rent_project/view/screen/confrim_screens.dart';
-import 'package:boat_rent_project/view/weidget/auth/auth_button.dart';
+import 'package:boat_rent/logic/model/boat_modle.dart';
+import 'package:boat_rent/view/screen/confrim_screens.dart';
+import 'package:boat_rent/view/weidget/auth/auth_button.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

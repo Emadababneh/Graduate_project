@@ -1,5 +1,5 @@
-import 'package:boat_rent_project/utils/theme/theme.dart';
-import 'package:boat_rent_project/view/weidget/auth/auth_button.dart';
+import 'package:boat_rent/utils/theme/theme.dart';
+import 'package:boat_rent/view/weidget/auth/auth_button.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

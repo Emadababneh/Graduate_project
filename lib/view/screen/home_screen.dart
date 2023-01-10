@@ -1,7 +1,7 @@
-import 'package:boat_rent_project/logic/Controller/boat_toatl_controller.dart';
-import 'package:boat_rent_project/utils/theme.dart';
-import 'package:boat_rent_project/utils/theme/rate_app.dart';
-import 'package:boat_rent_project/view/weidget/auth/Test.dart';
+import 'package:boat_rent/logic/Controller/boat_toatl_controller.dart';
+import 'package:boat_rent/utils/theme.dart';
+import 'package:boat_rent/utils/theme/rate_app.dart';
+import 'package:boat_rent/view/weidget/auth/Test.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,7 +1,9 @@
-import 'package:boat_rent_project/utils/theme.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/utils.dart';
+
+import '../../utils/theme.dart';
 
 class TextUtils extends StatelessWidget {
   final String text;

@@ -1,5 +1,5 @@
-import 'package:boat_rent_project/logic/model/table_modle.dart';
-import 'package:boat_rent_project/services/table_services.dart';
+import 'package:boat_rent/logic/model/table_modle.dart';
+import 'package:boat_rent/services/table_services.dart';
 import 'package:get/get.dart';
 
 class TableController extends GetxController {

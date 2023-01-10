@@ -1,4 +1,4 @@
-import 'package:boat_rent_project/logic/model/table_modle.dart';
+import 'package:boat_rent/logic/model/table_modle.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';

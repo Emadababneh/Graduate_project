@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:boat_rent_project/logic/model/image.dart';
+import 'package:boat_rent/logic/model/image.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';

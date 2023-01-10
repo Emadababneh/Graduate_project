@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:boat_rent_project/logic/model/image.dart';
-import 'package:boat_rent_project/utils/theme/theme.dart';
-import 'package:boat_rent_project/view/screen/setting_screen.dart';
+import 'package:boat_rent/logic/model/image.dart';
+import 'package:boat_rent/utils/theme/theme.dart';
+import 'package:boat_rent/view/screen/setting_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

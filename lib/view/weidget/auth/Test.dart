@@ -1,6 +1,6 @@
-import 'package:boat_rent_project/logic/Controller/boat_controller.dart';
-import 'package:boat_rent_project/logic/model/boat_modle.dart';
-import 'package:boat_rent_project/utils/theme/theme.dart';
+import 'package:boat_rent/logic/Controller/boat_controller.dart';
+import 'package:boat_rent/logic/model/boat_modle.dart';
+import 'package:boat_rent/utils/theme/theme.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

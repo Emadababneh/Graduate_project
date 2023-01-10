@@ -1,5 +1,5 @@
 
-import 'package:boat_rent_project/logic/Controller/table_controller.dart';
+import 'package:boat_rent/logic/Controller/table_controller.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

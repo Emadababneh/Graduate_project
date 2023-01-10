@@ -1,4 +1,4 @@
-import 'package:boat_rent_project/view/screen/owner/ownerhome_screen.dart';
+import 'package:boat_rent/view/screen/owner/ownerhome_screen.dart';
 import 'package:get/get.dart';
 
 import '../logic/binding/auth_binding.dart';
